@@ -1,0 +1,40 @@
+Uri: https://fonts.googleapis.com/css2?display=swap&family=DM+Sans:ital,wght@0,400;0,500;1,400;1,500
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\s\dmsans\v14\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\s\dmsans\v14\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://skyin.carrd.co/
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\index.htm
+Content Type: text/html
+
+Uri: https://skyin.carrd.co/assets/images/bg.jpg?v=624213b4
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\assets\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://skyin.carrd.co/assets/images/image01.jpg?v=624213b4
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\assets\images\image01.jpg
+Content Type: image/jpeg
+
+Uri: https://skyin.carrd.co/assets/images/image02.jpg?v=624213b4
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\assets\images\image02.jpg
+Content Type: image/jpeg
+
+Uri: https://skyin.carrd.co/assets/images/image03.jpg?v=624213b4
+File Name: C:\Downloaded Web Sites\skyin.carrd.co\assets\images\image03.jpg
+Content Type: image/jpeg
+
